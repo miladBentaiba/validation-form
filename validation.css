@@ -1,0 +1,24 @@
+form{
+    text-align:center;
+    margin-top:100px;
+    margin-bottom: 200px;
+    font-weight:bold;
+    color:white;
+}
+body{
+    
+    background-image: linear-gradient(to right top, #051937, #164a60, #4d7e80, #92b1a2, #dee5cf);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Comfortaa', cursive;
+}
+input{
+    width:300px;
+    height:30px;
+    margin:10px;
+}
+button{
+    font-family: 'Comfortaa', cursive;
+    width:120px;
+    font-weight:bold;
+}
